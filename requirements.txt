@@ -6,4 +6,4 @@ pathlib
 scipy
 shapely
 networkx
-ZipFile
+zipfile

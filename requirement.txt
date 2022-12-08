@@ -1,0 +1,6 @@
+pywavefront
+numpy
+trimesh
+os
+streamlit
+pathlib 

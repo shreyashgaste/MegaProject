@@ -6,6 +6,4 @@ pathlib
 scipy
 shapely
 networkx
-streamlit_option_menu
 ZipFile
-streamlit.components.v1

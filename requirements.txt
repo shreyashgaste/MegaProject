@@ -6,3 +6,4 @@ pathlib
 scipy
 shapely
 networkx
+streamlit_option_menu
